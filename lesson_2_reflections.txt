@@ -19,6 +19,8 @@ R. Test new features, translations
 
 How do the diagrams help you visualize the branch structure?
 
+R. It's a graphic representation that can show a broader picture. You can identify unreachable commits(??)
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
