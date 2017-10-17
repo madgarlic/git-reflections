@@ -15,6 +15,8 @@ R. Add just the files that are pertinent to the logical change, then commit.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+R. Test new features, translations
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
