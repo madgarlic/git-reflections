@@ -28,3 +28,8 @@ R. File modifications from the two branches are combined following some logic. O
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+R.
+	Automatic is faster but can't guess all the cases, especially when same line gets modified in the two braches
+
+	Manual takes more time but adds human intelligence and "line expertise" to the mix, thus allowing resolution of (almost?) any (merge) conflict
