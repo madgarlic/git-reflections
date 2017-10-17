@@ -10,6 +10,8 @@ R.  It is different since it contains only the files you choose to add. So you c
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+R. Add just the files that are pertinent to the logical change, then commit.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
