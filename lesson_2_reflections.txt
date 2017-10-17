@@ -24,5 +24,7 @@ R. It's a graphic representation that can show a broader picture. You can identi
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+R. File modifications from the two branches are combined following some logic. One branch rejoin another, so we represent it in the graph as a joining node.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
