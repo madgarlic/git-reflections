@@ -13,3 +13,8 @@ R. 	Forks : GitHub only, a copy on my account which starts hi own life
 	Clone: repo is pulled from the origin, can be pushed ... git feature
 	Branch: local version of a repo
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+R.	It makes possible to handle local out-of-sync situations
+
+
