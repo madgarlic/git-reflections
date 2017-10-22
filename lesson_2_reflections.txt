@@ -1,35 +1,36 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-R. .git gets created. Because doing so you set up properly the git files for version tracking.
+R.	.git gets created. Because doing so you set up properly the git files for version tracking.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-R.  It is different since it contains only the files you choose to add. So you can subdivide files in logical chuncks.
+R.	It is different since it contains only the files you choose to add. So you can subdivide files in logical chuncks.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-R. Add just the files that are pertinent to the logical change, then commit.
+R.	Add just the files that are pertinent to the logical change, then commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-R. Test new features, translations
+R.	Test new features, translations
 
 How do the diagrams help you visualize the branch structure?
 
-R. It's a graphic representation that can show a broader picture. You can identify unreachable commits(??)
+R.	It's a graphic representation that can show a broader picture. You can identify unreachable commits(??)
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-R. File modifications from the two branches are combined following some logic. One branch rejoin another, so we represent it in the graph as a joining node.
+R.	File modifications from the two branches are combined following some logic. One branch rejoin another,
+	so we represent it in the graph as a joining node.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
-R.
-	Automatic is faster but can't guess all the cases, especially when same line gets modified in the two braches
+R.	Automatic:	it is faster but can't guess all the cases, especially when same line gets modified in the two braches
 
-	Manual takes more time but adds human intelligence and "line expertise" to the mix, thus allowing resolution of (almost?) any (merge) conflict
+	Manual:		it takes more time but adds human intelligence and "line expertise" to the mix, thus allowing resolution
+				of (almost?) any (merge) conflict
