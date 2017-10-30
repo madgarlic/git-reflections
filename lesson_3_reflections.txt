@@ -23,3 +23,7 @@ R.	From harder to esier:
 		- FTP
 		- Dropbox
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+R.	Separate branch will allow pull requests on GitHup.
+	Master could be better if you work on your own (no collaboration)
